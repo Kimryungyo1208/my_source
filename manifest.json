@@ -1,0 +1,14 @@
+
+{
+"name": "My App",
+"short_name": "My App",
+"start_url": "https://192.168.35.106:5156/novel/novel_list",
+"display": "standalone",
+"background_color": "#ffffff",
+"icons": [{
+    "src": "https://raw.githubusercontent.com/Kimryungyo1208/my_source/main/logo512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+}]
+}
+  
